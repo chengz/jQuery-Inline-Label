@@ -1,0 +1,5 @@
+[jQuery Inline Label] - Simple snippet to allow inline label for text input fields
+================================
+
+Usage:
+$("input[type=text]").inline();
